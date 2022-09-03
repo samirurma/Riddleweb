@@ -1,0 +1,36 @@
+.Box-container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid ;
+    margin-top: 50px;
+    margin-left:50px;
+    background-color: white;
+}
+.container1{
+    height:50px;
+    border: 2px solid;
+    background-color: black;
+}
+
+.search{
+    position:relative;
+    top:5px;
+    left:5px
+}
+.Box-container2{
+    position: relative;
+    bottom: 300px;
+    left:200px;
+    height: 400px;
+    width: 400px;
+    border: 2px solid ;
+    margin-top: 50px;
+    margin-left:5px;
+    background-color: white;
+}
+.container2{
+    height:50px;
+    border: 2px solid;
+    background-color: black;
+}
+

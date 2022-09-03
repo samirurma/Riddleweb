@@ -1,0 +1,22 @@
+.main-Container{
+height: 200px;
+width: 500px;
+position: relative;
+bottom: 850px;
+left:650px;
+}
+h1{
+    color:white
+
+}
+p{
+    color:white
+}
+
+button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border-color:white;
+    margin-left:20px;
+}
